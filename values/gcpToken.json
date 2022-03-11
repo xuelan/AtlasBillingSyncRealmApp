@@ -1,0 +1,5 @@
+{
+    "name": "gcpToken",
+    "value": "gcpTokenSecret",
+    "from_secret": true
+}

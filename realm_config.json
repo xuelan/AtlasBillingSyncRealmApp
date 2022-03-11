@@ -1,0 +1,7 @@
+{
+    "app_id": "billingapp-gsviw",
+    "config_version": 20210101,
+    "name": "BillingApp",
+    "location": "IE",
+    "deployment_model": "GLOBAL"
+}

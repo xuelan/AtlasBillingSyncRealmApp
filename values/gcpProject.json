@@ -1,0 +1,5 @@
+{
+    "name": "gcpProject",
+    "value": "my-project-bigquery-285713",
+    "from_secret": false
+}

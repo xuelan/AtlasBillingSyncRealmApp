@@ -1,0 +1,15 @@
+{
+    "name": "LastMonthInvoiceTrigger",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/3 * * * *"
+    },
+    "disabled": true,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "mainSyncLastMonthInvoice"
+            }
+        }
+    }
+}
